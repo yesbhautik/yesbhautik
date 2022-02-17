@@ -213,7 +213,7 @@ spreading knowledge and positivity.</h4>
 
 <span>&#8618;</span> Just a snake eating my contributions 🐍
 <p align='center'>
-<img src="https://github.com/chinmay29hub/chinmay29hub/raw/output/github-contribution-grid-snake.svg">
+<img src="https://raw.githubusercontent.com/yesbhautik/yesbhautik/8de22b72427c91cfcc0df29b3f601acfc2e1e820/github-user-contribution.svg">
 </p>
 
 <hr>
