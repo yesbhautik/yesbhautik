@@ -10,7 +10,7 @@
 <h1 align="center"  >Hi , I'm Bhautik Bavadiya <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
         width="35"></h1>
 <p align="center">
-    <a href="https://github.com/DenverCoder1/readme-typing-svg"><img
+    <a href="https://www.instagram.com/yesbhautik/"><img
             src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&color=%2300ECFF&size=22&duration=5001&center=true&vCenter=true&lines=Computer+Science+Student+;Full+Stack+Web+Developer;DS+%7C+AI+%7C+ML+Enthusiastic;Always+learning+new+things;Android+PRO;Hacker;Founder+%26+MD+of+YouAreUnique"></a>
 </p>
 <hr />
