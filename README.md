@@ -250,7 +250,8 @@
     <hr>
     <br>
 
-    <span>&#8618;</span> Just a snake eating my contributions 🐍
+   <span>&#8618;</span> Just a snake eating my contributions 🐍
+    
 <p align='center'>
     <img
         src="https://raw.githubusercontent.com/yesbhautik/yesbhautik/8de22b72427c91cfcc0df29b3f601acfc2e1e820/github-user-contribution.svg">
