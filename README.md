@@ -16,7 +16,7 @@
     spreading knowledge and positivity.</h4>
 <br>
 <p align="center"> <img
-        src="https://komarev.com/ghpvc/?username=candida18&label=Profile%20views&color=0e75b6&style=plastic"
+        src="https://komarev.com/ghpvc/?username=yesbhautik&label=Profile%20views&color=0e75b6&style=plastic"
         alt="yesbhautik" /> </p>
 
 
@@ -32,12 +32,14 @@
 <br>
 <br>
 <p align='center'>
-    <img src="https://komarev.com/ghpvc/?username=chinmay29hub">&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://img.shields.io/github/followers/chinmay29hub?style=social">&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://komarev.com/ghpvc/?username=yesbhautik&color=green">&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://img.shields.io/github/followers/yesbhautik?style=social">&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 <br>
+
 <p align='center'><img
-        src="http://github-readme-streak-stats.herokuapp.com?user=yesbhautik&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
+        src="http://github-readme-streak-stats.herokuapp.com?user=yesbhautik&theme=dark">
+    
 </p>
 
 <hr><br>
@@ -253,7 +255,8 @@
     
 <p align='center'>
     <img
-        src="https://raw.githubusercontent.com/yesbhautik/yesbhautik/8de22b72427c91cfcc0df29b3f601acfc2e1e820/github-user-contribution.svg">
+        src="https://github.com/yesbhautik/yesbhautik/blob/aff6989b0b967e30121c15d954b795c9b6ec0987/github-contribution-grid-snake.svg">
+    
 </p>
 
 <hr>
@@ -263,7 +266,7 @@
 <br>
 <p align='center'>
     <img
-        src="https://github-readme-stats.vercel.app/api/wakatime?username=@cba3b28e-0618-4a0e-bb4c-7e9c0edf18f9&theme=github_dark">
+        src="https://github-readme-stats.vercel.app/api/wakatime?username=@@yesbhautik&theme=github_dark">
 </p>
 
 <hr>
