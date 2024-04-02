@@ -1,17 +1,17 @@
-Hey hey! It's Bhautik Bavadiya
+Hey hey! It's Bhautik Bavadiya.
 =================================
 
 AKA YESBHAUTIK online. Nice to meet ya! 
 --------------------------
 
-Technologist | Founder & CEO of YesbhautikX | Full Stack Developer | Cloud Engineer
+🚀 Technologist | 🎯 Founder & CEO of YesbhautikX | 💻 Full Stack Developer | ☁️ Cloud Engineer
 
-* 🌍  I'm based in India
-* 🖥️  See my website at [Website](http://yesbhautik.co.in/)
-* ✉️  You can contact me at [hi@yesbhautik.co.in](mailto:hi@yesbhautik.co.in)
-* 🚀  I'm currently working on [YesbhautikX GPT](http://gpt.yesbhautikx.co.in)
-* 🧠  I'm learning Rust
-* 🤝  I'm open to collaborating on AI & cloud based projects
+* 📍 Based in the incredible India
+* 🖥️  See my website at [Website](http://yesbhautik.co.in/)
+* 📬 Drop me a line at [hi@yesbhautik.co.in](mailto:hi@yesbhautik.co.in)
+* 🔥 Currently building the amazing [YesbhautikX GPT](http://gpt.yesbhautikx.co.in)
+* 🦀 Rustling through the Rust programming language
+* 🤝 Seeking partners in AI & cloud-based quests
 
 <a href="https://www.x.com/yesbhautik" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/yesbhautik?logo=twitter&style=for-the-badge&color=a855f7&labelColor=1c1917"
