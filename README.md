@@ -1,7 +1,7 @@
-Hi 👋 My name is Bhautik Bavadiya
+Hey hey! It's Bhautik Bavadiya
 =================================
 
-Better known as Yesbhautik
+AKA YESBHAUTIK online. Nice to meet ya! 
 --------------------------
 
 Technologist | Founder & CEO of YesbhautikX | Full Stack Developer | Cloud Engineer
