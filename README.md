@@ -23,7 +23,12 @@ src="https://img.shields.io/twitter/follow/yesbhautik?logo=twitter&style=for-the
 
 ### Badges
 <a href="https://app.daily.dev/yesbhautik"><img src="https://api.daily.dev/devcards/v2/ghelLyadAERXR0nAwqUSH.png?type=default&r=ko8" width="356" alt="Bhautik Bavadiya's Dev Card"/></a>
-<br>
-<b>Top Repositories</b>
 
+### Streak Stats
+<p>
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=yesbhautik&background=0d1117&sideNums=E8DFCA&sideLabels=AEBDCA&currStreakNum=FB8C00&dates=AEBDCA" />
+</p>
+<br>
+
+### Top Repositories
 <div width="100%" align="center"><a href="https://github.com/yesbhautik/Master-AI-Bot" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=yesbhautik&repo=Master-AI-Bot&title_color=14b8a6&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/yesbhautik/Whatsapp-Ai-BOT" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=yesbhautik&repo=Whatsapp-Ai-BOT&title_color=14b8a6&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
