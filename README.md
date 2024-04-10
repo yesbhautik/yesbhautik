@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev/dataprofessor"><img src="https://api.daily.dev/devcards/v2/ghelLyadAERXR0nAwqUSH.png?r=6l2" width="300" alt="Chanin Nantasenamat's Dev Card" align="right"/></a>
+<a href="https://app.daily.dev/dataprofessor"><img src="https://api.daily.dev/devcards/v2/ghelLyadAERXR0nAwqUSH.png?type=default&r=m2u" width="300" alt="Chanin Nantasenamat's Dev Card" align="right"/></a>
 Hey hey! It's Bhautik Bavadiya.
 =================================
 
