@@ -26,6 +26,8 @@ src="https://img.shields.io/twitter/follow/yesbhautik?logo=twitter&style=for-the
 ### Streak Stats
 <p>
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yesbhautik&background=0d1117&sideNums=E8DFCA&sideLabels=AEBDCA&currStreakNum=FB8C00&dates=AEBDCA" />
+ <br>
+ <img src="https://raw.githubusercontent.com/yesbhautik/yesbhautik/output/github-contribution-grid-snake-dark.svg" />
 </p>
 <br>
 
