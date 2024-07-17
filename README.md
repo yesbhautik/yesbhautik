@@ -31,7 +31,12 @@ src="https://img.shields.io/twitter/follow/yesbhautik?logo=twitter&style=for-the
  <img src="https://raw.githubusercontent.com/yesbhautik/yesbhautik/output/github-contribution-grid-snake-dark.svg" />
 </p>
 <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark" />
+<img src="https://github.com/user-attachments/assets/3513ef75-2cd2-43c3-978f-55e879ed929f"  width="15%"/>
+<img src="https://github.com/user-attachments/assets/c2823688-93f2-4425-b7f7-bf1ec396e5b4"  width="15%"/>
+
+
+<br>
+  <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark"/>
  <br>
 
 ### Top Repositories
