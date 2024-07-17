@@ -10,7 +10,7 @@ Hey hey! It's Bhautik Bavadiya.
 * 📍 Based in the incredible India
 * 🖥️  See my website at [Website](http://yesbhautik.co.in/)
 * 📬 Drop me a line at [hi@yesbhautik.co.in](mailto:hi@yesbhautik.co.in)
-* 🔥 Currently building the amazing [YesbhautikX GPT](http://gpt.yesbhautikx.co.in)
+* 🔥 Currently building the amazing [FlavorGPT](https://gpt.flavor-ai.tech/)
 * 🦀 Rustling through the Rust programming language
 * 🤝 Seeking partners in AI & cloud-based quests
 
