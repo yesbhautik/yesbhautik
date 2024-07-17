@@ -31,8 +31,10 @@ src="https://img.shields.io/twitter/follow/yesbhautik?logo=twitter&style=for-the
  <img src="https://raw.githubusercontent.com/yesbhautik/yesbhautik/output/github-contribution-grid-snake-dark.svg" />
 </p>
 <br>
-<img src="https://github.com/user-attachments/assets/3513ef75-2cd2-43c3-978f-55e879ed929f"  width="15%"/>
-<img src="https://github.com/user-attachments/assets/c2823688-93f2-4425-b7f7-bf1ec396e5b4"  width="15%"/>
+<a href="https://www.credly.com/badges/367dfa42-d9b3-437c-bcc3-c9d776575879/public_url"> <img src="https://github.com/user-attachments/assets/3513ef75-2cd2-43c3-978f-55e879ed929f"  width="15%"/> </a> </img>
+<a href="https://www.credly.com/badges/2f28818a-cff4-4834-aeb2-30c98a400ef1/public_url"> <img src="https://github.com/user-attachments/assets/c2823688-93f2-4425-b7f7-bf1ec396e5b4"  width="15%"/> </a> </img>
+<a href="https://www.credly.com/badges/0b2812b0-ed15-4f33-be87-efc269c02097/public_url"> <img src="https://github.com/user-attachments/assets/83435b18-8845-4f7b-b047-62da03086fde"  width="15%"/> </a> </img>
+
 
 
 <br>
