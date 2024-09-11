@@ -1,4 +1,3 @@
-<a href="https://app.daily.dev/dataprofessor"><img src="https://api.daily.dev/devcards/v2/ghelLyadAERXR0nAwqUSH.png?type=default&r=m2u" width="300" alt="Chanin Nantasenamat's Dev Card" align="right"/></a>
 Hey hey! It's Bhautik Bavadiya.
 =================================
 
@@ -43,3 +42,5 @@ src="https://img.shields.io/twitter/follow/yesbhautik?logo=twitter&style=for-the
 
 ### Top Repositories
 <div width="100%" align="center"><a href="https://github.com/yesbhautik/Master-AI-Bot" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=yesbhautik&repo=Master-AI-Bot&title_color=14b8a6&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/yesbhautik/Whatsapp-Ai-BOT" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=yesbhautik&repo=Whatsapp-Ai-BOT&title_color=14b8a6&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<br>
+<a href="https://app.daily.dev/dataprofessor"><img src="https://api.daily.dev/devcards/v2/ghelLyadAERXR0nAwqUSH.png?type=default&r=m2u" width="300" alt="Chanin Nantasenamat's Dev Card" align="right"/></a>
