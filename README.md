@@ -5,7 +5,7 @@ Hey hey! It's Bhautik Bavadiya.
 ### AKA YESBHAUTIK online. Nice to meet ya! 
 
 
-🚀 Technologist | 🎯 Founder & CEO of YesbhautikX | **IT Professional** | ☁️ Cloud Engineer | 💻 Full Stack Developer | Business Development @ Straw Hat Labs
+🚀 Technologist | 🎯 Founder & CEO of YesbhautikX | **IT Professional** | ☁️ Cloud Engineer | 💻 Full Stack Developer | ✨ Business Development @ Straw Hat Labs
 
 * 📍 Based in the incredible India
 * 🖥️  See my website at [Website](http://yesbhautik.co.in/)
