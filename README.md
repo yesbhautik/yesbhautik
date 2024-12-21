@@ -1,17 +1,15 @@
-<p style="float: right; margin-left: 20px;">
-    <img src="https://render.gitanimals.org/lines/kavicastelo?pet-id=655005503710681288" width="300" alt="Bhautik Bavadiya's Pet, Powered by gitanimals.org" align="right" style="display: block; margin-bottom: 10px;" />
-</p>
+<a href="https://github.com/devxb/gitanimals"> <img src="https://render.gitanimals.org/lines/yesbhautik?pet-id=658388917079893617" width="600" height="120" /> </a>
 
 Hey hey! It's Bhautik Bavadiya.
 =================================
 
 ### AKA YESBHAUTIK online. Nice to meet ya!
 
-🚀 **Technopreneur** ✦ **Founder** of **YesbhautikX** ✦ **IT Professional** ✦ **BD** @ **StrawHat Labs**
-
-<p style="float: right; margin-left: 40px;">
-    <img src="https://render.gitanimals.org/lines/kavicastelo?pet-id=658388917079893610" width="300" alt="Bhautik Bavadiya's Pet, Powered by gitanimals.org" align="right" style="display: block; margin-bottom: 10px;" />
+<p>
+    <img src="https://render.gitanimals.org/lines/kavicastelo?pet-id=658389333251309714" width="100" alt="Bhautik Bavadiya's Pet, Powered by gitanimals.org" align="right" style="display: block; margin-bottom: 10px;" />
 </p>
+
+🚀 **Technopreneur** ✦ **Founder** of **YesbhautikX** ✦ **IT Professional** ✦ **BD** @ **StrawHat Labs**
 
 * 📍 Based in the incredible India
 * 🔗 Social & Website [Links](http://yesbhautik.co.in/)
