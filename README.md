@@ -10,7 +10,7 @@ Hey hey! It's Bhautik Bavadiya.
 🚀 **Technopreneur** ✦ **Founder** of **YesbhautikX** ✦ **IT Professional** ✦ **BD** @ **StrawHat Labs**
 
 <p style="float: right; margin-left: 40px;">
-    <img src="https://render.gitanimals.org/lines/kavicastelo?pet-id=658389333251309714" width="300" alt="Bhautik Bavadiya's Pet, Powered by gitanimals.org" align="right" style="display: block; margin-bottom: 10px;" />
+    <img src="https://render.gitanimals.org/lines/kavicastelo?pet-id=658388917079893610" width="300" alt="Bhautik Bavadiya's Pet, Powered by gitanimals.org" align="right" style="display: block; margin-bottom: 10px;" />
 </p>
 
 * 📍 Based in the incredible India
@@ -19,10 +19,6 @@ Hey hey! It's Bhautik Bavadiya.
 * 🔥 Currently building the amazing [**FlavorGPT**](https://gpt.flavor-ai.tech/) & **Trust Network**
 * 🦀 Rustling through the Rust programming language
 * 🤝 Seeking partners in AI & cloud-based quests
-
-<p style="float: right; margin-left: 60px;">
-    <img src="https://render.gitanimals.org/lines/kavicastelo?pet-id=658388917079893610" width="300" alt="Bhautik Bavadiya's Pet, Powered by gitanimals.org" align="right" style="display: block; margin-bottom: 10px;" />
-</p>
 
 <p align="left">
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
