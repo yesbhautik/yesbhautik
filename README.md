@@ -6,7 +6,7 @@ Hey hey! It's Bhautik Bavadiya.
 ### AKA YESBHAUTIK online. Nice to meet ya!
 
 <p>
-    <img src="https://render.gitanimals.org/lines/kavicastelo?pet-id=658389333251309714" width="200" alt="Bhautik Bavadiya's Pet, Powered by gitanimals.org" align="right" style="display: block; margin-bottom: 10px;" />
+    <img src="https://render.gitanimals.org/lines/kavicastelo?pet-id=656399946007309557" width="200" alt="Bhautik Bavadiya's Pet, Powered by gitanimals.org" align="right" style="display: block; margin-bottom: 10px;" />
 </p>
 
 🚀 **Technopreneur** ✦ **Founder** of **YesbhautikX** ✦ **IT Professional** ✦ **BD** @ **StrawHat Labs**
