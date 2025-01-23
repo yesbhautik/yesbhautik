@@ -9,7 +9,7 @@ Hey hey! It's Bhautik Bavadiya.
     <img src="https://render.gitanimals.org/lines/kavicastelo?pet-id=658414197060265056" width="200" alt="Bhautik Bavadiya's Pet, Powered by gitanimals.org" align="right" style="display: block; margin-bottom: 10px;" />
 </p>
 
-🚀 **Technopreneur** • **IT Professional** ✦ **Building FlavorGPT** ✦ **Founder** ᯅ **YesbhautikX**
+🚀 **Technopreneur** • **IT Professional** ✦ **Building FlavorGPT** ✦ **Founder** ᯅ **YesbhautikX** ✦ **BD**
 
 * 📍 Based in the incredible India
 * 🔗 Social & Website [Links](http://yesbhautik.co.in/)
