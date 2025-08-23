@@ -9,7 +9,9 @@ Hey hey! It's Bhautik Bavadiya.
     <img src="https://render.gitanimals.org/lines/kavicastelo?pet-id=658414197060265056" width="200" alt="Bhautik Bavadiya's Pet, Powered by gitanimals.org" align="right" style="display: block; margin-bottom: 10px;" />
 </p>
 
-🚀 **Technopreneur** • **IT Professional** ✦ **Building FlavorGPT** ✦ **Founder** ᯅ **YBX Labs** ✦ **AI asset management**
+**Solo guy trying to explore the world.**
+**ᨒ #cambodia 🇰🇭**
+**Founder & CEO @ YBX Labs • AI asset management, Web3.0, AI, Crypto finance management**
 
 * 📍 Based in the incredible India
 * 🔗 Social & Website [Links](http://yesbhautik.co.in/)
