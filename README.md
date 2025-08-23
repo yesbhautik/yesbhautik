@@ -9,12 +9,11 @@ Hey hey! It's Bhautik Bavadiya.
     <img src="https://render.gitanimals.org/lines/kavicastelo?pet-id=658414197060265056" width="200" alt="Bhautik Bavadiya's Pet, Powered by gitanimals.org" align="right" style="display: block; margin-bottom: 10px;" />
 </p>
 
-**Solo guy trying to explore the world.**
-**ᨒ #cambodia 🇰🇭**
+**Solo guy trying to explore the world.**</br>
+**ᨒ #cambodia 🇰🇭**</br>
 **Founder & CEO @ YBX Labs • AI asset management, Web3.0, AI, Crypto finance management**
 
-* 📍 Based in the incredible India
-* 🔗 Social & Website [Links](http://yesbhautik.co.in/)
+* 🔗 Social & Website [Links](https://links.yesbhautik.co.in/)
 * 📬 Drop me a line at [hi@yesbhautik.co.in](mailto:hi@yesbhautik.co.in)
 * 🔥 Currently building the amazing [**FlavorGPT**](https://gpt.flavor-ai.tech/)
 * 🦀 Rustling through the Rust programming language
